@@ -7,11 +7,13 @@
 
 ### Languages and Tools:
 <p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+  
+    </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/>  
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/dotnetmaui.svg" alt="xamarin" width="40" height="40"/>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  </a> 
+  
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
+ 
 </p>
 <!---
 Muhammadfaizann/Muhammadfaizann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
