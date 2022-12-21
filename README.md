@@ -10,9 +10,9 @@
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
   <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer">
-    <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg" alt="xamarin" width="40" height="40"/> 
-     <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="xamarin" width="40" height="40"/> 
+     <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
+    <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg"  alt="xamarin" width="40" height="40"/> 
 </p>
 <!---
 Muhammadfaizann/Muhammadfaizann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
