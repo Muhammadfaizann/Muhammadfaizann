@@ -1,7 +1,7 @@
 ### TechnoKing, Developer 
 - 👋 Hi, I’m @Muhammadfaizann
 - 👀 I’m interested in Xamarin Development 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working with .net maui
 - 💞️ I’m looking to collaborate on mobile application development 
 - 📫 How to reach me, hit me up at xamarindeveloper@icloud.com
 
