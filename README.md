@@ -1,4 +1,4 @@
-### TechnoKing, Xamarin Developer 
+### Application Developer
 - 👋 Hi, I’m @Muhammadfaizann
 - 👀 I’m interested in Xamarin Development 
 - 🌱 I’m currently working with .net maui
