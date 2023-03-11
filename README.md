@@ -8,7 +8,7 @@
 ### Languages and Tools:
 <p align="left"> 
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:Ethereum_logo_2014.svg" alt="ethereum" width="40" height="40"/> 
+        <img src="https://github.com/Muhammadfaizann/ethereum/blob/main/ethereum.svg" alt="ethereum" width="40" height="40"/> 
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
   <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer">
