@@ -8,13 +8,14 @@
 ### Languages and Tools:
 <p align="left"> 
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="ethereum" width="40" height="40"/> 
+    <img src="https://docs.google.com/viewerng/viewer?url=https://filehost.co/8X0/eth_logo.svg?download_token%3De115e48694906f6acec72d7170509b91a411272c2218d69f45d985646e18614e" alt="ethereum" width="40" height="40"/> 
+        
     <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
   <a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="xamarin" width="40" height="40"/> 
-     <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
-    <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg"  alt="xamarin" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="xamarin" width="40" height="40"/> 
+  <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer">
+  <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg"  alt="xamarin" width="40" height="40"/> 
 </p>
 <!---
 Muhammadfaizann/Muhammadfaizann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
