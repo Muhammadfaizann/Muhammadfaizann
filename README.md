@@ -8,7 +8,7 @@
 ### Languages and Tools:
 <p align="left"> 
    <a href="https://openai.com/" target="_blank" rel="noreferrer"/>
-  <img src="https://www.svgrepo.com/show/349356/ethereum.svg](https://www.svgrepo.com/show/306500/openai.svg](https://www.edigitalagency.com.au/wp-content/uploads/chatgpt-logo-white-black-background-png-1.png" alt="openai" width="40" height="40"/> 
+  <img src="https://www.edigitalagency.com.au/wp-content/uploads/chatgpt-logo-white-black-background-png-1.png" alt="openai" width="40" height="40"/> 
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"/>
   <img src="https://www.svgrepo.com/show/349356/ethereum.svg" alt="ethereum" width="40" height="40"/> 
    <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"/>
