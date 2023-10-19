@@ -10,7 +10,7 @@
    <a href="https://openai.com/" target="_blank" rel="noreferrer"/>
   <img src="https://www.edigitalagency.com.au/wp-content/uploads/chatgpt-logo-white-black-background-png-1.png" alt="openai" width="40" height="40"/> 
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"/>
-  <img src="https://github.com/Muhammadfaizann/ethereum/blob/main/ethereum.jpeg" alt="ethereum" width="40" height="40"/> 
+  <img src="https://github.com/Muhammadfaizann/ethereum/blob/main/ethereum-removebg-preview.png" alt="ethereum" width="40" height="40"/> 
    <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"/>
   <img src="https://lightningchart.com/wp-content/uploads/images/icons/maui-logo.svg"  alt="xamarin" width="40" height="40"/> 
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"/>
