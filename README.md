@@ -3,7 +3,7 @@
 - 👀 I’m interested in working on ethereum network.
 - 🌱 I’m currently working with .net maui
 - 💞️ I’m looking to collaborate on mobile application development 
-- 📫 How to reach me, hit me up at xamarindeveloper@icloud.com
+- 📫 Reach out to me at xamarindeveloper@icloud.com
 
 ### Languages and Tools:
 <p align="left"> 
