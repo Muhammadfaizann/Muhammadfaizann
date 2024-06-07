@@ -1,6 +1,5 @@
 ### Application Developer
 - 👋 Hi, I’m @Muhammadfaizann
-- 👀 I’m interested in working on ethereum network.
 - 🌱 I’m currently working with .net maui
 - 💞️ I’m looking to collaborate on mobile application development 
 - 📫 Reach out to me at xamarindeveloper@icloud.com
