@@ -6,8 +6,9 @@
 
 ### Languages and Tools:
 <p align="left"> 
+  <!---
   <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"/>
-  <img src="https://github.com/Muhammadfaizann/ethereum/blob/main/ethereum-removebg-preview.png" alt="ethereum" width="40" height="40"/> 
+  <img src="https://github.com/Muhammadfaizann/ethereum/blob/main/ethereum-removebg-preview.png" alt="ethereum" width="40" height="40"/> --->
    <a href="https://dotnet.microsoft.com/en-us/apps/maui" target="_blank" rel="noreferrer"/>
   <img src="https://github.com/Muhammadfaizann/ethereum/blob/main/dotnet-maui.png"  alt=".NET MAUI" width="40" height="40"/> 
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"/>
